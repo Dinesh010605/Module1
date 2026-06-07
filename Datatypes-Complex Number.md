@@ -1,28 +1,20 @@
-# 🧮 Datatypes-Complex Number Creation in Python
+# Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
-To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+To write a Python program to read a string from the user and then print it.
 
 ## 🧠 Algorithm
-1. Read an integer input from the user and assign it to the variable `a` (real part).
-2. Read another integer input from the user and assign it to the variable `b` (imaginary part).
-3. Create a complex number `x` using the `complex(a, b)` function.
-4. Print the complex number `x`.
-5. Print the real part of `x` using `x.real`.
-6. Print the imaginary part of `x` using `x.imag`.
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
 
-## 💻 Program
+## 🧾 Program
 ```
-a=int(input())
-b=int(input())
-x=complex(a,b)
-print(x)
-print(x.real)
-print(x.imag)
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
 ```
-
 ## Output
-![517705517-e984ca1b-4755-4d51-b232-446a336da825](https://github.com/user-attachments/assets/2dd0acd2-3518-44c6-855e-62760cc46ebf)
+![517705647-204f63ec-7a63-4ca6-a1cf-b059afae84cb](https://github.com/user-attachments/assets/f1d3cf64-4336-4295-a02c-230f1678abb7)
 
 ## Result
-Thus, Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+Thus, the Python program to read a string from the user and then print it is created successfully.
